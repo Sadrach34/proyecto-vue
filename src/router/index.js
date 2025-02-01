@@ -24,6 +24,11 @@ const router = createRouter({
       name: 'registrar',
       component: () => import('../modules/registro/views/Registrarview.vue'),
     },
+    {
+      path: '/Calcular',
+      name: 'Calcular',
+      component: () => import('../modules/calcular/views/Calcular.vue'),
+    },
   ],
 })
 
