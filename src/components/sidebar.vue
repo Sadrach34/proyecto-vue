@@ -4,6 +4,7 @@
         <ul>
             <li><RouterLink to="/contador">contador</RouterLink></li>
             <li><RouterLink to="/Lista-de-Tareas">Lista-de-Tareas</RouterLink></li>
+            <li><RouterLink to="/registrar">registrar</RouterLink></li>
         </ul>
     </div>
 </template>
